@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-authentication-dac7a": {
+      "hosting": {
+        "travelgram": [
+          "fir-authentication-dac7a"
+        ]
+      }
+    }
+  }
+}
